@@ -1,11 +1,10 @@
 package game;
 
+import java.util.Random;
+
 /**
- * @file Grid.java
  * @author A. Montanaro
- * @date 18/02/2018
- * 
- * Class that represents a 3x3 grid of the game TicTacToe.
+ * @version 1.0.0
  */
 public class Grid {
 	private static char CROSS =                           'X';
